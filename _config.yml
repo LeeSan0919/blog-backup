@@ -1,0 +1,11 @@
+title: "산의 개발·보안 블로그"
+description: "개발과 보안 공부를 기록하는 공간"
+url: "https://leesan0919.github.io"
+baseurl: ""
+
+theme: minima
+lang: ko
+timezone: Asia/Seoul
+
+header_pages:
+  - categories.md
